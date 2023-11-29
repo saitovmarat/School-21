@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "s21_math.h"
+#include "../s21_math.h"
 
 Suite *suite_abs(void);
 Suite *suite_acos(void);

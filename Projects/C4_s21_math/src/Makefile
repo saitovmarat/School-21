@@ -38,4 +38,4 @@ style:
 	@clang-format -n */*.c *.h
 
 clean:
-	@rm -rf test s21_math.a *.gcda *.gcno report *.o
+	@rm -rf test s21_math.a *.gcda *.gcno report *.o *.info
